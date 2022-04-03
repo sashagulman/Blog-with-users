@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70759a50-b796-44c3-bfb4-4b08b75e88a6" name="Changes" comment="add gunicorn">
+    <list default="true" id="70759a50-b796-44c3-bfb4-4b08b75e88a6" name="Changes" comment="add sql for local running">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/header.html" afterDir="false" />
     </list>
     <list id="1cb34ec2-a8ff-447c-885c-d22fd6561fd5" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649007890274</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Change sqlite to postgres">
+      <created>1649009390269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649009390269</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add sql for local running">
+      <created>1649009618950</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649009618950</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +100,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add gunicorn" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gunicorn" />
+    <MESSAGE value="Change sqlite to postgres" />
+    <MESSAGE value="add sql for local running" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sql for local running" />
   </component>
 </project>
